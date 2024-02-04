@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @achraf-rd
-- 👀 I’m interested in Thechnologie generally
+- 👀 I’m interested in Technology generally
 - 🌱 I’m currently learning MERN stack 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me achrafrachid51@gmail.com
